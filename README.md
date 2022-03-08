@@ -15,5 +15,8 @@ This code is written in Python 1.9. There are some require packages:
 
 4.opencv
 
+The code is trained on COCO dataset including 80 classes. The input images are randomly cropted to 224*224.
+
+
 
 
