@@ -1,7 +1,7 @@
 # Class-agnostic-object-counting
 
 
-My PyTorch implementation of "Class-agnostic Few-shot Object Counting".
+My PyTorch implementation of "[Class-agnostic Few-shot Object Counting](https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Class-Agnostic_Few-Shot_Object_Counting_WACV_2021_paper.pdf)".
 
 # Setup
 
